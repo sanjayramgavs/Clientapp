@@ -1,0 +1,17 @@
+d:\Repo\Clientapp\bin\Debug\net7.0\Clientapp.exe
+d:\Repo\Clientapp\bin\Debug\net7.0\Clientapp.deps.json
+d:\Repo\Clientapp\bin\Debug\net7.0\Clientapp.runtimeconfig.json
+d:\Repo\Clientapp\bin\Debug\net7.0\Clientapp.dll
+d:\Repo\Clientapp\bin\Debug\net7.0\Clientapp.pdb
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.GeneratedMSBuildEditorConfig.editorconfig
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.AssemblyInfoInputs.cache
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.AssemblyInfo.cs
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.csproj.CoreCompileInputs.cache
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.dll
+d:\Repo\Clientapp\obj\Debug\net7.0\refint\Clientapp.dll
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.pdb
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.genruntimeconfig.cache
+d:\Repo\Clientapp\obj\Debug\net7.0\ref\Clientapp.dll
+d:\Repo\Clientapp\bin\Debug\net7.0\Newtonsoft.Json.dll
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.csproj.AssemblyReference.cache
+d:\Repo\Clientapp\obj\Debug\net7.0\Clientapp.csproj.CopyComplete
